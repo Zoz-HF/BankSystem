@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1664315260 source:d:\programing\c++\banksystem\main.cpp
+	<iostream>
+	"Account.h"
+	"Normal.h"
+	"Vip.h"
+
+1664314884 source:d:\programing\c++\banksystem\src\account.cpp
+	"Account.h"
+	<iostream>
+	<String>
+
+1664313598 d:\programing\c++\banksystem\include\account.h
+	<iostream>
+	<String>
+
+1664315129 source:d:\programing\c++\banksystem\src\normal.cpp
+	"Normal.h"
+
+1664313804 d:\programing\c++\banksystem\include\normal.h
+	<Account.h>
+	<iostream>
+	<String>
+
+1664315319 source:d:\programing\c++\banksystem\src\vip.cpp
+	"Vip.h"
+
+1664313804 d:\programing\c++\banksystem\include\vip.h
+	<Account.h>
+	<iostream>
+	<String>
+

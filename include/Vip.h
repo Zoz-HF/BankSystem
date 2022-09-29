@@ -11,7 +11,6 @@ class Vip : public Account
         Vip(string u_n,string pass,string n);
         virtual ~Vip();
         void display();
-        void check_status();
 
     protected:
 

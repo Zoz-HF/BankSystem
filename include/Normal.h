@@ -8,9 +8,8 @@
 class Normal : public Account
 {
     public:
-        Normal(string u_n,string pass,string name);
+        Normal(string u_n,string pass,string n);
         virtual ~Normal();
-        void check_status();
         void display();
 
     protected:
